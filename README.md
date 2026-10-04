@@ -1,1 +1,2 @@
 # Active-Directory-AD-Environment-
+Active Directory (AD) is a service by Microsoft that helps you manage users, computers, and network devices and resources in a Windows domain environment. This is mostly used in a corporate place or any business environment that has a IT staff so that they can easily manage the businesses policies, software updates, and user permissions. In this repository, I will show how Active Directory works and can be used daily to manage business domains.
