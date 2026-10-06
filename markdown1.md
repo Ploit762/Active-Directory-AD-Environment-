@@ -33,6 +33,6 @@ Active Directory can help manage users and assigned them to groups with in a dom
 * Controls like `Full control` gives a account and groups full control over the account, `Read` on gives rights to look over things but can not edit anything, and `Write` is the able edit anything with in the users account.
 #
 
-User management is great to do when users are needing certain policies and specialties for their account. Use this when accessing a server with permission.
+User management is great to use when users are needing certain policies and specialties for their account. Use this when accessing a server with permission.
    
   
